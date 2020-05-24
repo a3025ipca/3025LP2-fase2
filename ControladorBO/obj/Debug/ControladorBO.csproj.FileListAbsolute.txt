@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\LP2\ControladorBO\bin\Debug\ControladorBO.dll
+C:\Users\danie\source\repos\LP2\ControladorBO\bin\Debug\ControladorBO.pdb
+C:\Users\danie\source\repos\LP2\ControladorBO\obj\Debug\ControladorBO.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\LP2\ControladorBO\obj\Debug\ControladorBO.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\LP2\ControladorBO\obj\Debug\ControladorBO.dll
+C:\Users\danie\source\repos\LP2\ControladorBO\obj\Debug\ControladorBO.pdb
